@@ -1,0 +1,67 @@
+### nudge files
+
+### 2699
+
+
+Current Nudge command is:
+3drotate -quintic -clipit -rotate 1.30I 17.97R -1.50A -ashift 35.62S -0.47L -9.42P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2699/anat/PARC_sub_2699_FSPGR_1_nudged.nii.gz
+
+### 2718
+
+Current Nudge command is:
+3drotate -quintic -clipit -rotate 0.88I 15.68R -2.29A -ashift 27.76S -1.24L -12.18P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2718/anat/./PARC_sub_2718_FSPGR_1_nudged.nii.gz
+
+#### 2726 (for runs 1-4 only!)
+Current Nudge command is:
+3drotate -quintic -clipit -rotate 0.00I 14.00R 0.00A -ashift 15.67S 0.00L -7.99P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2726/anat/./PARC_sub_2726_FSPGR_1_nudged.nii.gz
+
+#### 2726 (for runs 5,6 only!)
+Current Nudge command is:
+3drotate -quintic -clipit -rotate 0.00I 10.40R 0.00A -ashift 19.60S 0.00L -7.53P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2726/anat/./PARC_sub_2726_FSPGR_2_nudged.nii.gz
+
+#### 2747
+3drotate -quintic -clipit -rotate 0.00I 11.00R 0.00A -ashift 14.54S 0.00L -7.19P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2747/anat/./PARC_sub_2747_FSPGR_1_nudged.nii.gz
+
+#### 2754
+3drotate -quintic -clipit -rotate 0.00I 8.70R 0.00A -ashift 20.37S 0.00L -6.46P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2754/anat/PARC_sub_2754_FSPGR_1_nudged.nii.gz
+
+#### 2761
+3drotate -quintic -clipit -rotate 1.22I 10.30R -0.22A -ashift 18.13S -0.12L -5.60P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2761/anat/PARC_sub_2761_FSPGR_1_nudged.nii.gz
+
+#### 2784  (BAD BRAIN? cutoff in both directions...) 
+Current Nudge command is:
+3drotate -quintic -clipit -rotate 0.00I 14.00R 0.00A -ashift 29.80S 0.00L -7.21P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2784/anat/PARC_sub_2784_FSPGR_1_nudged.nii.gz
+
+#### 2786
+3drotate -quintic -clipit -rotate 0.00I 21.00R 0.00A -ashift 39.23S 0.00L -11.48P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2786/anat/PARC_sub_2786_FSPGR_1_nudged.nii.gz
+
+#### 2787
+Current Nudge command is:
+3drotate -quintic -clipit -rotate 0.00I 12.50R 0.00A -ashift 22.57S 0.00L -10.73P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2787/anat/PARC_sub_2787_FSPGR_1_nudged.nii.gz
+
+#### 2788 
+Current Nudge command is:
+3drotate -quintic -clipit -rotate 1.52I 9.50R -0.25A -ashift 12.90S -0.17L -6.37P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2788/anat/PARC_sub_2788_FSPGR_1_nudged.nii.gz
+
+#### 2792
+3drotate -quintic -clipit -rotate 0.00I 13.00R 0.00A -ashift 20.91S 0.00L -8.64P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2792/anat/PARC_sub_2792_FSPGR_1_nudged.nii.gz
+
+#### 2796
+3drotate -quintic -clipit -rotate 0.00I 5.00R 0.00A -ashift 11.00S 0.00L -3.90P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2796/anat/PARC_sub_2796_FSPGR_1_nudged.nii.gz
+
+#### 2799
+3drotate -quintic -clipit -rotate 0.00I 5.00R 2.00A -ashift 15.39S -0.60L -7.00P -prefix ???  inputdataset
+*+ WARNING: Over-writing dataset /Users/Jim/PARC_study/scandata_for_analysis/PARC_sub_2799/anat/PARC_sub_2799_FSPGR_1_nudged.nii.gz
